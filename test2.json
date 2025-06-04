@@ -1,0 +1,20 @@
+{
+  "name": "TestCampaignos #1001",
+  "symbol": "$TESTOS",
+  "description": "A special NFT from the TestCampaignos collection",
+  "image": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?auto=format&fit=crop&w=512&h=512",
+  "attributes": [
+    { "trait_type": "Generation", "value": "Gen 1" },
+    { "trait_type": "Background", "value": "Neon Grid" },
+    { "trait_type": "Power Level", "value": "Over 9000" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?auto=format&fit=crop&w=512&h=512",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
